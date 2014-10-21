@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Test Cases/01 - Dir.bg XPath.html">01 - Dir.bg XPath</a></td></tr>
+<tr><td><a href="Test Cases/02 - Google Test Case.html">02 - Google Test Case</a></td></tr>
+<tr><td><a href="Test Cases/03 - BG Coder Test Case.html">03 - BG Coder Test Case</a></td></tr>
+<tr><td><a href="Test Cases/04 - Make a record Test Case B.html">04 - Make a record Test Case B</a></td></tr>
+<tr><td><a href="Test Cases/04 - Make a record Test Case.html">04 - Make a record Test Case</a></td></tr>
+<tr><td><a href="Test Cases/05 - Slider Test Case A.html">05 - Slider Test Case A</a></td></tr>
+<tr><td><a href="Test Cases/05 - Slider Test Case B.html">05 - Slider Test Case B</a></td></tr>
+<tr><td><a href="Test Cases/06 - QueueMetrics Test Case.html">06 - QueueMetrics Test Case</a></td></tr>
+</tbody></table>
+</body>
+</html>

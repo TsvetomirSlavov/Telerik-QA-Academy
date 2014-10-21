@@ -1,0 +1,24 @@
+For RemoteWebDriver for Chrome and IE Desired capabilities we should specify the path to the driver
+
+
+ {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chrome.switches": [  ],
+      "chromeOptions": {
+         "args": [  ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "WINDOWS",
+      "version": ""
+   }
+}
+
+
+
+http://localhost:64649/session/6573e33634c1df61cce006e1cf96f242/url
+
+{
+   "url": "http://www.mobile.bg//"
+}
